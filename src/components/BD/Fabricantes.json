@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "643af1f957f1b7a99b8c6a7d"
+  },
+  "NombreFabricante": "Dragerwerk AG & Co. Kgaa",
+  "nit": "9001949104",
+  "pais": "alemania",
+  "telefono": "+49 451 882 0",
+  "correo": "Dragerwerk@Drager.co",
+  "web": "shorturl.at/EMNQZ ",
+  "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dr%C3%A4ger_Logo.svg"
+},{
+  "_id": {
+    "$oid": "643af26857f1b7a99b8c6a7e"
+  },
+  "NombreFabricante": "Phillips",
+  "nit": "8600053964",
+  "pais": "Paises Bajos",
+  "telefono": "+31 452 478 59",
+  "correo": "Phillips@AST.co",
+  "web": "https://www.philips.com.co/",
+  "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/52/Philips_logo_new.svg"
+},{
+  "_id": {
+    "$oid": "643af2f557f1b7a99b8c6a7f"
+  },
+  "NombreFabricante": "Comen",
+  "nit": "9003434371",
+  "pais": "China",
+  "telefono": "400-700-9488",
+  "correo": "InfoComen@InfoComen.com",
+  "web": "shorturl.at/rEF37",
+  "imagen": "https://d100mj7v0l85u5.cloudfront.net/s3fs-public/styles/webp/public/logo%20comen%20.png.webp?itok=njJtAbd4"
+},{
+  "_id": {
+    "$oid": "643af31257f1b7a99b8c6a80"
+  },
+  "NombreFabricante": "Mindray",
+  "nit": "9003434371",
+  "pais": "China",
+  "telefono": "400-700-9488",
+  "correo": "Info.Phillips@Phillips.com",
+  "web": "",
+  "imagen": "https://upload.wikimedia.org/wikipedia/en/0/00/Mindray_logo.png"
+},{
+  "_id": {
+    "$oid": "643dd7969abfce4808afbe60"
+  },
+  "NombreFabricante": "Siemens healthineers",
+  "nit": "9003434371",
+  "pais": "China",
+  "telefono": "400-700-9488",
+  "correo": "Info.siemens@siemens.com",
+  "web": "https://www.siemens-healthineers.com/",
+  "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/79/Siemens_Healthineers_logo.svg"
+}]

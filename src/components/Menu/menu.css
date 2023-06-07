@@ -1,0 +1,94 @@
+.navegator {
+  background-color: #fde4cf;
+  width: 100%;
+}
+
+.imgsald {
+  margin-left: 1.4rem;
+  position: relative;
+  top: 4rem;
+}
+
+.title {
+  display: inline-block;
+  margin-left: 8rem;
+  position: relative;
+  top: -3rem;
+}
+
+.browser {
+  margin: auto;
+  position: relative;
+  top: -2rem;
+  margin-left: 8.2rem;
+}
+
+nav.menu-flex {
+  display: inline-flex;
+}
+
+/* Tiene los estilos de fuentes, colores entre otros */
+.me-auto {
+  color: black;
+  font-size: larger;
+  font-family: "Nunito";
+}
+
+.navega-Med {
+  color: #ff0000;
+  font-family: Bold 700;
+  float: left;
+  margin: 0;
+}
+.navega-care {
+  color: #ffb4a2;
+  font-family: Bold 700;
+  float: left;
+  margin: 0;
+}
+.navega-Antioq {
+  color: #bf0603;
+  font-family: Thin 100;
+  font-size: medium;
+  float: left;
+  margin: 0;
+}
+
+.u {
+  list-style: none;
+}
+
+.browser {
+  display: flex;
+}
+.dropdown-basic-button {
+  display: none;
+}
+/* mostrar el botón en pantallas pequeñas */
+/* .menu-toggle {
+    display: none;
+  } */
+
+@media screen and (max-width: 767px) {
+  /* cambia el estilo del menú en pantallas de hasta 768px */
+  .imgsald {
+    margin-left: 2rem;
+    position: relative;
+    top: 3rem;
+  }
+  .browser {
+    display: none;
+  }
+  
+  /* ocultar el botón en pantallas grandes */
+  .dropdown-basic-button {
+    display: flex;
+    position: fixed;
+    left: 11rem;
+    position: fixed;
+    top: -1rem;
+    position: fixed;
+    margin-right:0;
+    
+  }
+}

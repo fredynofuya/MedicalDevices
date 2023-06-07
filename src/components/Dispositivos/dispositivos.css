@@ -1,0 +1,162 @@
+.Titulo {
+  width: 100%;
+}
+
+.carosel {
+  display: flex;
+}
+
+.immg {
+  display: flex;
+  width: 1700px;
+  height: 600px;
+}
+
+/*  */
+/*  */
+.content1 {
+  display: inline-block;
+}
+
+.content1 {
+  margin-left: 8rem;
+  position: relative;
+  top: -3rem;
+}
+
+.content1 .Wlc {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  position: relative;
+  top: -8rem;
+  position: relative;
+  left: 9rem;
+}
+.content1 .p {
+  width: 50rem;
+  height: 10rem;
+  position: relative;
+  top: -8rem;
+  position: relative;
+  left: 9rem;
+}
+
+/*  */
+/*  */
+.content2 {
+  display: inline-block;
+}
+
+.content2 {
+  margin-left: 8rem;
+  position: relative;
+  top: -3rem;
+}
+
+.content2 .im1 {
+  position: relative;
+  top: 20rem;
+  position: relative;
+  left: -42rem;
+}
+
+.content2 .p2 {
+  width: 23rem;
+  height: 10rem;
+  position: relative;
+  top: 9rem;
+  position: relative;
+  left: -21rem;
+}
+
+/*  */
+/*  */
+.content3 {
+  display: inline-block;
+}
+
+.content3 {
+  margin-left: 8rem;
+  position: relative;
+  top: -3rem;
+}
+
+.content3 .im2 {
+  display: inline-block;
+  position: relative;
+  top: 2rem;
+  position: relative;
+  left: 16rem;
+}
+
+.content3 .p4 {
+  display: inline-block;
+  width: 23rem;
+  height: 10rem;
+  position: relative;
+  top: 8rem;
+  position: relative;
+  left: 18rem;
+}
+
+@media screen and (max-width: 767px) {
+  /* cambia el estilo del menú en pantallas de hasta 768px */
+
+  .content1 .Wlc {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    text-align: center;
+    position: relative;
+    top: 3rem;
+    position: relative;
+    left: -4rem;
+  }
+  .content1 .p {
+    width: 15rem;
+    height: 10rem;
+    text-align: center;
+    text-indent: 1rem;
+    position: relative;
+    top: 1rem;
+    position: relative;
+    left: -4rem;
+  }
+
+  .content2 .im1 {
+    position: relative;
+    top: 3rem;
+    position: relative;
+    left: -6rem;
+  }
+
+  .content2 .p2 {
+    width: 18rem;
+    height: 10rem;
+    text-align: center;
+    text-indent: 1rem;
+    position: relative;
+    top: 4rem;
+    position: relative;
+    left: -6rem;
+  }
+
+  .content3 .im2 {
+    display: inline-block;
+    position: relative;
+    top: 5rem;
+    position: relative;
+    left: -6rem;
+  }
+
+  .content3 .p4 {
+    display: inline-block;
+    text-align: center;
+    text-indent: 1rem;
+    width: 18rem;
+    height: 10rem;
+    position: relative;
+    top: 7rem;
+    position: relative;
+    left: -6rem;
+  }
+}
