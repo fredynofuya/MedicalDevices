@@ -23,15 +23,12 @@ function Dispositivos() {
         </Carousel>
         <div className="content1">
           <div id="wlc" className="Wlc">
-            <h2> Le damos la bienvenida a MEDICARE </h2>
+            <h2> Le damos la bienvenida a HABISALUD </h2>
           </div>
           <div id="P" className="p">
             <p>
               {" "}
-              <b>MEDICARE</b> es una compañía nacional líder en los ámbitos de la
-              tecnología médica y de seguridad, en alianza con la Universidad de
-              Antioquia. Desde 1980, los productos MEDICARE protegen y salvan
-              vidas.
+              <b>HABISALUD</b> es un aplicativo web para la habilitación de servicios en salud como, CONSULTA EXTERNA, CIRUGIA, UCI, UCE, entre otros mas. 
             </p>
           </div>
         </div>
@@ -43,13 +40,10 @@ function Dispositivos() {
 
           <div className="p2">
             <p>
-              <b>Hospital </b>
+              <b>CONSULTA EXTERNA </b>
             </p>
             <p>
-              Nuestro objetivo e inspiración es mejorar los cuidados críticos.
-              Descubra cómo nuestras soluciones pueden ayudarle a proteger y a
-              salvar vidas en todos los departamentos y unidades, a lo largo y
-              ancho del hospital.{" "}
+            las Consultas Externas se refieren a aquellos actos médicos realizados de forma ambulatoria en un local adaptado para ello para el diagnóstico, tratamiento o seguimiento de un paciente con base a la anamnesis (historia clínica) y la exploración física{" "}
             </p>
           </div>
         </div>
@@ -60,13 +54,11 @@ function Dispositivos() {
           </div>
           <div className="p4">
             <p>
-              <b> Seguridad</b>
+              <b> CIRUGIA</b>
             </p>
             <p>
-              MEDICARE goza de una gran reputación en el ámbito de la tecnología
-              para la seguridad a nivel internacional. Independientemente de a
-              qué sector se dedique, nuestro objetivo es que pueda desarrollar
-              su trabajo con total seguridad.{" "}
+            El servicio de Cirugía se encarga de realizar procedimientos quirúrgicos con estándares de calidad, en instalaciones bien dotadas y un equipo humano experto en cada una de las especialidades. Además, contamos con un área que asigna ​fechas y horas de programación para las intervenciones e igualmente, ofrece instrucciones al paciente sobre los cuidados prequirúrgicos, revisa documentos y asigna citas para evaluación por el anestesiólogo de manera previa
+            {" "}
             </p>
           </div>
         </div>

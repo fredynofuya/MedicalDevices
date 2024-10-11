@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "643a2a76ef6e320fa2c7e298"
   },
-  "name": "Ventilador mecánico Evita V300 Drage",
+  "name": "CONSULTA EXTERNA",
   "fechaProduccion": "30/junio/2017",
   "numeroLote": "Específicos con versión de software SW2.60 o anteriores",
   "NombreFabricante": "Dragerwerk Ag & Co. Kgaa",
@@ -13,16 +13,16 @@
   "Corriente": "1.1 A",
   "DisenoPor": "Dragerwerk Ag & Co. Kgaa",
   "Recomendaciones": "NAN",
-  "Cantidad": "2",
+  "Cantidad": "95",
   "Garantia": "2 años",
-  "PrecioCop": "3,480,750",
-  "PrecioUsd": "792.42",
-  "imagen": "https://p.globalsources.com/IMAGES/PDT/B1185172308/Ventilador.jpg"
+  "PrecioCop": "2",
+  "PrecioUsd": "2.15%",
+  "imagen": "https://www.biotecgen.com.co/images/servicios/consulta-externa/consulta-externa.jpg"
 },{
   "_id": {
     "$oid": "643a2b6cef6e320fa2c7e299"
   },
-  "name": "Monitor Infinity M300",
+  "name": "CIRUGIA",
   "fechaProduccion": "02/marzo/2015",
   "numeroLote": "DI2301-00014",
   "NombreFabricante": "Dragerwerk Ag & Co. Kgaa",
@@ -33,16 +33,16 @@
   "Corriente": "0.6 A",
   "DisenoPor": "Dragerwerk Ag & Co. Kgaa",
   "Recomendaciones": "Contiene un pequeño imán que genera un campo magnético estático extremadamente bajo de aproximadamente 2 gauss a una distancia de 12,7 mm, para pacientes con marcapasos",
-  "Cantidad": "3",
+  "Cantidad": "189",
   "Garantia": "2 años",
-  "PrecioCop": "4,365,561,52",
-  "PrecioUsd": "994",
-  "imagen": "https://i.ebayimg.com/images/g/rOYAAOSwEzxYdRvQ/s-l500.jpg"
+  "PrecioCop": "1",
+  "PrecioUsd": "0.54%",
+  "imagen": "https://daviddelgadocirujano.com/wp-content/uploads/2022/09/Rinoplastia-1200x800.webp"
 },{
   "_id": {
     "$oid": "643a2c99ef6e320fa2c7e29a"
   },
-  "name": "Monitor vista 120 v3 pi",
+  "name": "UCI",
   "fechaProduccion": "05/febrero/2016",
   "numeroLote": "BAN45-33414",
   "NombreFabricante": "Dragerwerk Ag & Co. Kgaa",
@@ -53,89 +53,9 @@
   "Corriente": "0.7-1.4 A",
   "DisenoPor": "Dragerwerk Ag & Co. Kgaa",
   "Recomendaciones": "NAN",
-  "Cantidad": "5",
+  "Cantidad": "82",
   "Garantia": "2 años",
-  "PrecioCop": "6,000,000",
-  "PrecioUsd": "1,366.15",
-  "imagen": "https://www.draeger.com/Products/Media/draeger-vista-120-patient-monitors-3-2-D-1592-2018.jpg?imwidth=1024"
-},{
-  "_id": {
-    "$oid": "643a2d51ef6e320fa2c7e29b"
-  },
-  "name": "Elition 3.0T",
-  "fechaProduccion": "23/octubre/2019",
-  "numeroLote": "Elition",
-  "NombreFabricante": "Philips",
-  "Direccion": "Cl.93 #11A-11 Bogotá",
-  "Telefono": "+14222600",
-  "Voltaje": "220V",
-  "Frecuencia": "128 Hz",
-  "Corriente": "1.7 A",
-  "DisenoPor": "Philips",
-  "Recomendaciones": "NAN",
-  "Cantidad": "0",
-  "Garantia": "5 años",
-  "PrecioCop": "4,391,913,000,00",
-  "PrecioUsd": "1,000,000",
-  "imagen": "https://hansasolucionesmedicas.com/wp-content/uploads/2022/08/INGENIA-ELITION-3T-1.jpg"
-},{
-  "_id": {
-    "$oid": "643a2dedef6e320fa2c7e29c"
-  },
-  "name": "Monitor de signos vitales Básico Comen NC3",
-  "fechaProduccion": "30/mayo/2020",
-  "numeroLote": "Comen 0023",
-  "NombreFabricante": "Comen",
-  "Direccion": "Carrera 38-36 SUR 42",
-  "Telefono": "+573243690493",
-  "Voltaje": "220V",
-  "Frecuencia": "50/60 Hz",
-  "Corriente": "0.9 A",
-  "DisenoPor": "Comen",
-  "Recomendaciones": "NAN",
-  "Cantidad": "4",
-  "Garantia": "2 años",
-  "PrecioCop": "3.480.750",
-  "PrecioUsd": "792.42",
-  "imagen": "https://ecodata.cl/wp-content/uploads/2021/02/NC3-2.jpg"
-},{
-  "_id": {
-    "$oid": "643ae8d457f1b7a99b8c6a76"
-  },
-  "name": "Desfribilador Externo Automatico DEA Mindray C2",
-  "fechaProduccion": "12/marzo/2019",
-  "numeroLote": "DE45 0005",
-  "NombreFabricante": "Mindray",
-  "Direccion": "Cl.7 Sur #42, El poblado,Medellin, Antioquia",
-  "Telefono": "+573120892",
-  "Voltaje": "120-500V",
-  "Frecuencia": "128 Hz",
-  "Corriente": "1.5 A",
-  "DisenoPor": "Mindray",
-  "Recomendaciones": "El voltaje esvariable por el usuario",
-  "Cantidad": "3",
-  "Garantia": "2.5 años",
-  "PrecioCop": "6,391,000",
-  "PrecioUsd": "1,454.95",
-  "imagen": "https://medicolsa.com.co/1315-large_default/desfibrilador-externo-automatico-dea-mindray-c2.jpg"
-},{
-  "_id": {
-    "$oid": "643aea0557f1b7a99b8c6a77"
-  },
-  "name": "Myndray DP-50 Ultrasound Machine",
-  "fechaProduccion": "31/agosto/2018",
-  "numeroLote": "DP34 123",
-  "NombreFabricante": "Mindray",
-  "Direccion": "Cl.7 Sur #42, El poblado,Medellin, Antioquia",
-  "Telefono": "+573120892",
-  "Voltaje": "220V",
-  "Frecuencia": "50/60 Hz",
-  "Corriente": "1.1 A",
-  "DisenoPor": "Mindray",
-  "Recomendaciones": "NAN",
-  "Cantidad": "2",
-  "Garantia": "3 años",
-  "PrecioCop": "29,491.695,80",
-  "PrecioUsd": "6715",
-  "imagen": "https://www.mindray.com/content/dam/xpace/en/products-solutions/products/ultrasound/general-imaging/dp-50_ob/p104-s3-web.jpg"
+  "PrecioCop": "1",
+  "PrecioUsd": "1.23%",
+  "imagen": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fprisa%2FSCOHZHKRIIE5LNBW3XEUU2AOXI.jpg?auth=4e736ba8477e04bf80db58d3209bc1c2881269eff2ae126c9775b43575d148cd&width=1200&height=675&smart=true"
 }]

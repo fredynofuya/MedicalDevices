@@ -1,5 +1,5 @@
 import "./menu.css";
-import ImagSalud from "../img/pngegg.png";
+import ImagSalud from "../img/sumi.jpg";
 import Dropdown from "react-bootstrap/Dropdown";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import Container from "react-bootstrap/Container";
@@ -26,11 +26,11 @@ function Menu() {
         <div className="title">
           <ul className="u">
             <li className="li">
-              <h1 className="navega-Med">MEDI</h1>
-              <h1 className="navega-care">CARE</h1>
+              <h1 className="navega-Med">HABI</h1>
+              <h1 className="navega-care">SALUD</h1>
             </li>
             <li className="li">
-              <h2 className="navega-Antioq">Universidad de Antioquia</h2>
+              <h2 className="navega-Antioq">SUMIMEDICAL</h2>
             </li>
           </ul>
         </div>
@@ -41,8 +41,8 @@ function Menu() {
             style={{ backgroundColor: "#FDE4CF" }}
           >
             <Dropdown.Item href="/" crossOrigin="anonymous">🏠 Home</Dropdown.Item>
-            <Dropdown.Item href="/Inventario" crossOrigin="anonymous">🦾 Inventario</Dropdown.Item>
-            <Dropdown.Item href="/Proveedores" crossOrigin="anonymous">🏥 Proveedores</Dropdown.Item>
+            <Dropdown.Item href="/Inventario" crossOrigin="anonymous">🦾 Consolidado</Dropdown.Item>
+            <Dropdown.Item href="/Proveedores" crossOrigin="anonymous">🏥 Usuarios</Dropdown.Item>
           </DropdownButton>
 
           <div className="browser">
@@ -54,10 +54,10 @@ function Menu() {
                     <b>🏠 Home</b>
                   </Nav.Link>
                   <Nav.Link href="/Inventario" crossOrigin="anonymous">
-                    <b>🦾 Inventario</b>
+                    <b>📊 Consolidado</b>
                   </Nav.Link>
                   <Nav.Link href="/Proveedores" crossOrigin="anonymous">
-                    <b>🏥 Proveedores </b>
+                    <b>🦾 Usuarios </b>
                   </Nav.Link>
                 </Nav>
               </Container>

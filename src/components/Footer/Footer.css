@@ -3,7 +3,7 @@
 }
 
 .pie-page {
-  background-color: #fde4cf;
+  background-color: white;
   width: 100%;
   position: relative;
   top: 6rem;
@@ -20,7 +20,7 @@
   left: 18rem;
   text-align: center;
   text-indent: 1rem;
-  color: #ff0000;
+  color: #050f9a;
 }
 
 @media screen and (max-width: 767px) {

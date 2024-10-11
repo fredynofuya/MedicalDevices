@@ -8,7 +8,7 @@
 .title-inven {
   margin-top: -3rem;
   margin-left: 4rem;
-  color: #bf0603;
+  color: azure;
 }
 
 .grid-inventario {
@@ -44,7 +44,7 @@
   .title-inven {
     margin-top: -6rem;
     margin-left: 4rem;
-    color: #bf0603;
+    color: #050f9a;
   }
   .d-flex {
     margin-top: 5rem;

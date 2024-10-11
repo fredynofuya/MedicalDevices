@@ -19,7 +19,7 @@ const MiInventario = () => {
           <Button variant="outline-success">Search</Button>
         </Form>
         <div>
-          <h1 className="title-inven"><b>Inventario</b></h1>
+          <h1 className="title-inven"><b>SERVICIOS</b></h1>
         </div>
       </div>
 
@@ -32,11 +32,11 @@ const MiInventario = () => {
               <b>{item.name}</b>
               <br />
               <br />
-              <b>Cantidad:</b> {item.Cantidad}
+              <b>Total criterios:</b> {item.Cantidad}
               <br />
-              <b>Precio Cop:</b> {item.PrecioCop}
+              <b>Cumple:</b> {item.PrecioCop}
               <br />
-              <b>Precio Usd:</b> {item.PrecioUsd}
+              <b>Cumplimiento:</b> {item.PrecioUsd}
               <br />
             </p>
             <button className="button">Ver mas</button>

@@ -1,5 +1,5 @@
 .navegator {
-  background-color: #fde4cf;
+  background-color: white;
   width: 100%;
 }
 
@@ -35,19 +35,19 @@ nav.menu-flex {
 }
 
 .navega-Med {
-  color: #ff0000;
+  color: #050f9a;
   font-family: Bold 700;
   float: left;
   margin: 0;
 }
 .navega-care {
-  color: #ffb4a2;
+  color: #7481f7;
   font-family: Bold 700;
   float: left;
   margin: 0;
 }
 .navega-Antioq {
-  color: #bf0603;
+  color: #05d905;
   font-family: Thin 100;
   font-size: medium;
   float: left;
