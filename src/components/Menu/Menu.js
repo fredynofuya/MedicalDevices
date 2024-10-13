@@ -56,7 +56,7 @@ function Menu() {
                   <Nav.Link href="/Inventario" crossOrigin="anonymous">
                     <b>📊 Consolidado</b>
                   </Nav.Link>
-                  <Nav.Link href="/Proveedores" crossOrigin="anonymous">
+                  <Nav.Link href="/Usuarios" crossOrigin="anonymous">
                     <b>🦾 Usuarios </b>
                   </Nav.Link>
                 </Nav>

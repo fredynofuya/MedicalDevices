@@ -4,7 +4,7 @@ import Navegador from "./components/Navegador/Navegador";
 import Dispositivos from "./components/Dispositivos/Dispositivos";
 import Footer from "./components/Footer/Footer";
 import MiInventario from "./components/inventario Dispositivos/Inventario";
-import Fabricantes from "./components/Fabricantes/Fabricantes";
+import Usuarios from "./components/Usuarios/Usuarios";
 
 const App = () => {
   return (
@@ -13,7 +13,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Dispositivos/>} />
         <Route path="/Inventario" element={<MiInventario/>} />
-        <Route path="/Proveedores" element={<Fabricantes/>} />
+        <Route path="/Usuarios" element={<Usuarios/>} />
       </Routes>
       <Footer />
     </Router>

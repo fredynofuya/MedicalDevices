@@ -1,9 +1,9 @@
-import "../Fabricantes/fabricantes.css";
+import "./usuarios.css";
 //import Button from "react-bootstrap/Button";
 //import Form from "react-bootstrap/Form";
 //const jsData = require("../BD/Fabricantes.json");
 
-const Fabricantes = () => {
+const Usuarios = () => {
   return (
     <section>
       <div className="wrapper">
@@ -16,7 +16,6 @@ const Fabricantes = () => {
           <div className="input-box">
               <input type="text" placeholder="Contraseña" required/>
           </div>
-
           <button type="submit">Ingresar</button>
           <button type="submit">Crear Usuario</button>
 
@@ -26,4 +25,4 @@ const Fabricantes = () => {
   );
 };
 
-export default Fabricantes;
+export default Usuarios;
