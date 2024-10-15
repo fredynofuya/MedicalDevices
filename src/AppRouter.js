@@ -12,7 +12,7 @@ const AppRouter = () => {
     <Router>
       <Navegador/>
       <Footer/>
-      <Route exact path="/" component={Dispositivos} />
+      <Route exact path="/Home" component={Dispositivos} />
       <Route path="/Consolidado" component={Consolidado} />
       {/* <Route path="/contact" component={ContactPage} /> */}
     </Router>
