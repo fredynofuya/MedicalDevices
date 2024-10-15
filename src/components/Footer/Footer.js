@@ -7,7 +7,8 @@ import "./Footer.css";
   return (
     <footer className="pie-page">
       <div className="di">
-        <h2 className="footer">APLICATIVO WEB PARA LA HABILITACIÓN DE SERVICIOS EN SALUD sumimedical </h2>
+        <h2 className="footer">APLICATIVO WEB PARA LA HABILITACIÓN DE SERVICIOS EN SALUD 
+          sumimedical SAS </h2>
       </div>
     </footer>
   );
