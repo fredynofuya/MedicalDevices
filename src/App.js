@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navegador from "./components/Navegador/Navegador";
 import Dispositivos from "./components/Dispositivos/Dispositivos";
 import Footer from "./components/Footer/Footer";
-import MiInventario from "./components/inventario Dispositivos/Inventario";
+import Consolidado from "./components/Consolidado/Consolidado";
 import Usuarios from "./components/Usuarios/Usuarios";
 
 const App = () => {
@@ -12,7 +12,7 @@ const App = () => {
       <Navegador />
       <Routes>
         <Route path="/" element={<Dispositivos/>} />
-        <Route path="/Inventario" element={<MiInventario/>} />
+        <Route path="/Consolidado" element={<Consolidado/>} />
         <Route path="/Usuarios" element={<Usuarios/>} />
       </Routes>
       <Footer />

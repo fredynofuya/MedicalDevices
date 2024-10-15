@@ -1,7 +1,6 @@
 import "./usuarios.css";
 //import Button from "react-bootstrap/Button";
 //import Form from "react-bootstrap/Form";
-//const jsData = require("../BD/Fabricantes.json");
 import logo from '../img/login.jpg';
 
 const Usuarios = () => {
