@@ -8,11 +8,10 @@ import Navegador from './components/Navegador/Navegador.js';
 
 const AppRouter = () => {
   return (
-   
-      
-      <Router>
-        <Navegador/>
-        <Footer/>
+
+    <Router>
+      <Navegador/>
+      <Footer/>
       <Route exact path="/" component={Dispositivos} />
       <Route path="/Consolidado" component={Consolidado} />
       {/* <Route path="/contact" component={ContactPage} /> */}

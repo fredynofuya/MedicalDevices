@@ -1,9 +1,8 @@
 import "../Consolidado/consolidado.css";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
-// import img from "../img/Desfribilador Externo Automatico DEA Mindray C2.jpg"
 const jsData = require("../BD/Consolidado.json");
-// const imag = require.context("../img/Desfribilador Externo Automatico DEA Mindray C2.jpg")
+
 
 const Consolidado = () => {
   return (
