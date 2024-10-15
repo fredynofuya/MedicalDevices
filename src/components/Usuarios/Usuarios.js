@@ -2,26 +2,34 @@ import "./usuarios.css";
 //import Button from "react-bootstrap/Button";
 //import Form from "react-bootstrap/Form";
 //const jsData = require("../BD/Fabricantes.json");
+import logo from '../img/login.jpg';
 
 const Usuarios = () => {
   return (
-    <section>
-      <div className="wrapper">
-        <form action="">
+    <div className="singup-container">
+      <div className="singup-box">
+        <div className="singup">
+          <img src={logo} alt='singup' />
+        </div>
+        <form>
+          <label htmlFor="username">Nombre de usuario:</label>
+          <input type="text" id="username" name="username" placeholder="Nombre de usuario" />
 
-          <h1>Usuario</h1>
-          <div className="input-box">
-              <input type="text" placeholder="Nombre" required/>
-          </div>
-          <div className="input-box">
-              <input type="text" placeholder="Contraseña" required/>
-          </div>
-          <button type="submit">Ingresar</button>
-          <button type="submit">Crear Usuario</button>
+          <label htmlFor="role">Define tu rol:</label>
+          <select id="role" name="role">
+            <option value="" disabled>Selecciona el rol</option>
+            <option value="admin">Administrador</option>
+            <option value="advanced">Avanzado</option>
+            <option value="normal">Normal</option>
+          </select>
 
+          <label htmlFor="password">Ingresa tu contraseña:</label>
+          <input type="password" id="password" name="password" placeholder="Contraseña" />
+
+          <button type="submit">Crear</button>
         </form>
       </div>
-    </section>
+    </div>
   );
 };
 
