@@ -41,8 +41,8 @@ function Menu() {
             style={{ backgroundColor: "#FDE4CF" }}
           >
             <Dropdown.Item href="/" crossOrigin="anonymous">🏠 Home</Dropdown.Item>
-            <Dropdown.Item href="/Inventario" crossOrigin="anonymous">🦾 Consolidado</Dropdown.Item>
-            <Dropdown.Item href="/Proveedores" crossOrigin="anonymous">🏥 Usuarios</Dropdown.Item>
+            <Dropdown.Item href="/Consolidado" crossOrigin="anonymous">🦾 Consolidado</Dropdown.Item>
+            <Dropdown.Item href="/Usuarios" crossOrigin="anonymous">🏥 Usuarios</Dropdown.Item>
           </DropdownButton>
 
           <div className="browser">
