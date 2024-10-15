@@ -50,10 +50,10 @@ function Menu() {
             <Navbar bg="#FDE4CF" variant="#FDE4CF" className="menu-flex">
               <Container className="me-auto">
                 <Nav>
-                  <Nav.Link href="/" crossOrigin="anonymous">
+                  <Nav.Link href="/Home" crossOrigin="anonymous">
                     <b>🏠 Home</b>
                   </Nav.Link>
-                  <Nav.Link href="/Inventario" crossOrigin="anonymous">
+                  <Nav.Link href="/Consolidado" crossOrigin="anonymous">
                     <b>📊 Consolidado</b>
                   </Nav.Link>
                   <Nav.Link href="/Usuarios" crossOrigin="anonymous">
