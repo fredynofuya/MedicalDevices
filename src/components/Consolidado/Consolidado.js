@@ -1,11 +1,11 @@
-import "../inventario Dispositivos/inventario.css";
+import "../Consolidado/consolidado.css";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 // import img from "../img/Desfribilador Externo Automatico DEA Mindray C2.jpg"
-const jsData = require("../BD/Inventario.json");
+const jsData = require("../BD/Consolidado.json");
 // const imag = require.context("../img/Desfribilador Externo Automatico DEA Mindray C2.jpg")
 
-const MiInventario = () => {
+const Consolidado = () => {
   return (
     <section>
       <div>
@@ -47,4 +47,4 @@ const MiInventario = () => {
   );
 };
 
-export default MiInventario;
+export default Consolidado;
