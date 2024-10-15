@@ -1,7 +1,7 @@
 import "./usuarios.css";
 //import Button from "react-bootstrap/Button";
 //import Form from "react-bootstrap/Form";
-import logo from '../img/login.jpg';
+import logo from '../img/login.png';
 
 const Usuarios = () => {
   return (
@@ -9,23 +9,23 @@ const Usuarios = () => {
       <div className="singup-box">
         <div className="singup">
           <img src={logo} alt='singup' />
-        </div>
-        <form>
-          <label htmlFor="username">Nombre de usuario:</label>
+        </div> 
+        <form className= "form">
+          <label className= "label" htmlFor="username">Nombre de usuario:</label>
           <input type="text" id="username" name="username" placeholder="Nombre de usuario" />
 
-          <label htmlFor="role">Define tu rol:</label>
+          <label className= "label" htmlFor="role">Define tu rol:</label>
           <select id="role" name="role">
-            <option value="" disabled>Selecciona el rol</option>
+            <option value="" >Selecciona el rol</option>
             <option value="admin">Administrador</option>
             <option value="advanced">Avanzado</option>
             <option value="normal">Normal</option>
           </select>
 
-          <label htmlFor="password">Ingresa tu contraseña:</label>
-          <input type="password" id="password" name="password" placeholder="Contraseña" />
+          <label className= "label" htmlFor="password">Ingresa tu contraseña:</label>
+          <input className= "input" type="password" id="password" name="password" placeholder="Contraseña" />
 
-          <button type="submit">Crear</button>
+          <button className= "button" type="submit">Crear</button>
         </form>
       </div>
     </div>
